@@ -1,4 +1,4 @@
-# Vizviz.py
+# gerador_procuracao.py
 # Criador de procurações em Python
 import xlsxwriter
 from docx import Document
