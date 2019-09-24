@@ -154,7 +154,7 @@ def create_docx(person_data):
         document.add_paragraph(paragraph_2)
 
         # Salva o documento
-        document.save(f'procuracoes/Procuração de {data[0]}.docx')
+        document.save(f'Procuração de {data[0]}.docx')
 
 
 
